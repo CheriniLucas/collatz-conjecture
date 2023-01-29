@@ -5,9 +5,9 @@ The Collatz conjecture was stated by the mathematician Lothar Collatz in 1937, a
 
 The function is given by:
 
-      	| n/2   ,   if n is even
-f(n) =	|                     				where n is a natural number
-      	| 3n+1  ,   if n is odd
+      	| n/2       if n is even
+    f(n) =  |                             where n is a natural number
+            |3n+1       if n is odd
 
 The most important data to consider when executing the function with a given number is the orbit time, which refers to the number of iterations until reaching unity; and the upper bound, which is the highest value obtained during the iterations.
 
