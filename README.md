@@ -1,5 +1,5 @@
 # collatz-conjecture
-Collatz conjeture in C and MatLab
+Collatz conjecture in C and MatLab
 
 The Collatz conjecture was stated by the mathematician Lothar Collatz in 1937, and to date it has not been solved. He affirms that regardless of the number we start with (belonging to the natural ones), it will always reach 1, and therefore a 4-2-1 cycle.
 
